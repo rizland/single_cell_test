@@ -1,0 +1,7 @@
+bsb==4.0.1
+dbbs-models==4.0.0 
+dbbs-catalogue==4.0.0
+bluepyopt==1.14.9
+matplotlib==3.8.2
+scoop==0.7.2
+plotly==5.14.1
